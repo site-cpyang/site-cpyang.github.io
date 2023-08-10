@@ -257,7 +257,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-314586297&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-489526137&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -267,7 +267,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-314586297&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-489526137&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -785,7 +785,7 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example journal article</title>
+      <title>The Classical-Romantic Dichotomy: A Machine Learning Approach</title>
       <link>https://site-cpyang.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://site-cpyang.github.io/publication/journal-article/</guid>
