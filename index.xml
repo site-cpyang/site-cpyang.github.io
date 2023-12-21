@@ -22,6 +22,14 @@
     </item>
     
     <item>
+      <title>Californian House Price Prediction with Kaggle Data</title>
+      <link>https://site-cpyang.github.io/project/eda-project/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://site-cpyang.github.io/project/eda-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Squirrels API - Use Case Development and Documentation</title>
       <link>https://site-cpyang.github.io/project/external-project/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
@@ -262,7 +270,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-275381964&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-269187534&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -272,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-275381964&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-269187534&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
