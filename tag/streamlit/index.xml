@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streamlit | Chao Péter Yang</title>
+    <link>https://site-cpyang.github.io/tag/streamlit/</link>
+      <atom:link href="https://site-cpyang.github.io/tag/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Streamlit</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://site-cpyang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Streamlit</title>
+      <link>https://site-cpyang.github.io/tag/streamlit/</link>
+    </image>
+    
+    <item>
+      <title>Duke ProfMatch: AI-Powered Research Collaboration Tool</title>
+      <link>https://site-cpyang.github.io/project/profmatch/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://site-cpyang.github.io/project/profmatch/</guid>
+      <description>&lt;p&gt;Duke ProfMatch is an AI-powered platform designed to connect students with professors whose research aligns with their interests. Inspired by the difficulty students face in identifying potential collaborators, the tool uses natural language queries to return curated lists of professors along with details on their research, publications, and contact information.&lt;/p&gt;
+&lt;p&gt;Built with Graph Retrieval-Augmented Generation (Graph RAG), Neo4j, and OpenAI models, ProfMatch features a visual graph of Duke’s academic network, allowing users to explore connections across departments, schools, and research areas. The system was created by transforming Scholars@Duke data into a graph database, integrating prompt-engineered retrieval pipelines, and deploying a Streamlit frontend.&lt;/p&gt;
+&lt;p&gt;ProfMatch makes academic networking more accessible and engaging, with future plans to expand to other universities and add advanced features such as keyword alerts, collaboration suggestions, and improved AI-driven matching.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

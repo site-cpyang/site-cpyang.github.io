@@ -2,19 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://site-cpyang.github.io/publication-type/1/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/diffusion-models/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/graph-neural-networks/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/interpretability/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/publication/progress/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/publication_types/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/publication/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/schenkerian-analysis/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/symbolic-music-generation/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tags/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/aws/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/dashboard/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/data-engineering/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/docker/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/healthcare/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/llm/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/project/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/project/sanassist/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/academic-networking/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/project/profmatch/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/graph-rag/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/neo4j/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/openai/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/streamlit/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://site-cpyang.github.io/tag/deep-learning/</loc>
     <lastmod>2023-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://site-cpyang.github.io/project/example/</loc>
-    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://site-cpyang.github.io/project/</loc>
-    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://site-cpyang.github.io/tags/</loc>
     <lastmod>2023-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -35,14 +123,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://site-cpyang.github.io/publication-type/7/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://site-cpyang.github.io/publication_types/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://site-cpyang.github.io/publication/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -118,18 +198,13 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://site-cpyang.github.io/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://site-cpyang.github.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://site-cpyang.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://site-cpyang.github.io/talk/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://site-cpyang.github.io/tag/ci/cd/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://site-cpyang.github.io/event/</loc>

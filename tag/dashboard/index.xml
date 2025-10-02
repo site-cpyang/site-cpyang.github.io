@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard | Chao Péter Yang</title>
+    <link>https://site-cpyang.github.io/tag/dashboard/</link>
+      <atom:link href="https://site-cpyang.github.io/tag/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dashboard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://site-cpyang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dashboard</title>
+      <link>https://site-cpyang.github.io/tag/dashboard/</link>
+    </image>
+    
+    <item>
+      <title>SanAssist: LLM-Powered Healthcare Data Dashboard</title>
+      <link>https://site-cpyang.github.io/project/sanassist/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://site-cpyang.github.io/project/sanassist/</guid>
+      <description>&lt;p&gt;SanAssist is an innovative web application that empowers healthcare professionals with seamless data analysis and natural language querying. The platform combines interactive dashboards built with the Squirrels library and a fine-tuned GPT-2 model (via LoRA) to deliver context-aware insights from patient datasets.&lt;/p&gt;
+&lt;p&gt;The system includes a complete ETL pipeline (Databricks + Pandas) for data ingestion, transformation, and storage, connected to a lightweight Python microservice. Healthcare professionals can upload datasets, explore interactive charts and tables, and query the integrated chatbot for insights like &lt;em&gt;“Which patients are at the highest risk for sepsis?”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;SanAssist is fully containerized with Docker, deployed on AWS Elastic Container Registry (ECR) and App Runner, and automated via GitHub Actions CI/CD pipelines. Load tests with 10,000 concurrent users confirmed scalability, with peak throughput of 602 RPS. The fine-tuned model achieved a perplexity score of &lt;strong&gt;3.32&lt;/strong&gt;, outperforming general-purpose medical LLMs such as Med-PaLM in domain-specific accuracy.&lt;/p&gt;
+&lt;p&gt;With a robust data pipeline, secure deployment, and intuitive interface, SanAssist demonstrates how LLMs can transform healthcare analytics, bridging the gap between raw data and actionable clinical insights.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
