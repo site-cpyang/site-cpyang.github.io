@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>SchenkerLink: Human-in-the-Loop Hierarchical Music Analysis with Uncertainty-Aware Graph Link Prediction</title>
+      <link>https://site-cpyang.github.io/publication/schenkerlink/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://site-cpyang.github.io/publication/schenkerlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SanAssist: LLM-Powered Healthcare Data Dashboard</title>
       <link>https://site-cpyang.github.io/project/sanassist/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
@@ -302,7 +310,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-273816954&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-513427869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -312,7 +320,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-273816954&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-513427869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
